@@ -1,0 +1,11 @@
+.carousel{
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+.carouselItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
